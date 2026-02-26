@@ -29,7 +29,7 @@ smart-expense-analyzer/
 
 1.⁠ ⁠Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/smart-expense-analyzer.git
+git clone https://github.com/ajay-backend/smart-expense-analyzer.git
 
 2.⁠ ⁠Go to project folder
 
@@ -60,3 +60,4 @@ python3 main.py
 
 Ajay Gavali  
 Python Developer (Self-Taught)
+
