@@ -65,4 +65,5 @@ python expense_gui.py
 ## 👨‍💻 Author
 
 Ajay Shivaji Gavali  
-Python Developer (Learning Project
+Python Developer (Learning Projects)
+
