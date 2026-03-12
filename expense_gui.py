@@ -4,7 +4,7 @@ def save_data():
     with open("expenses.json", "w") as f:
         json.dump(expenses, f)
 
-def load_data():
+def load_data():gi
     global expenses
     try:
         with open("expenses.json", "r") as f:
