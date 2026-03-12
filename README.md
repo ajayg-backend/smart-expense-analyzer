@@ -6,6 +6,8 @@ This application helps users track daily expenses, visualize spending, and expor
 
 ##  Application Preview
 
+<img src="python-expense-tracker.png" width="400">
+
 ![Expense tracker GUI](python-expense-tracker.png)
 ---
 
@@ -23,6 +25,15 @@ This application helps users track daily expenses, visualize spending, and expor
 ---
 
 ## 🛠 Tech Stack
+## 📁 Project Structure
+## ▶️ How To run
+## 👨🏻‍💻 Author
+
+---
+
+
+
+## 🛠 Tech Stack
 
 •⁠  ⁠Python
 •⁠  ⁠Tkinter (GUI)
@@ -32,8 +43,10 @@ This application helps users track daily expenses, visualize spending, and expor
 
 ---
 
-## 📂 Project Structure
 
+
+
+## 📂 Project Structure
 
 expense_gui.py
 expenses.json
@@ -69,5 +82,6 @@ python expense_gui.py
 
 Ajay Shivaji Gavali  
 Python Developer (Learning Projects)
+
 
 
