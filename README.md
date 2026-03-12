@@ -8,7 +8,6 @@ This application helps users track daily expenses, visualize spending, and expor
 
 <img src="python-expense-tracker.png" width="400">
 
-![Expense tracker GUI](python-expense-tracker.png)
 ---
 
 ## 🚀 Features
@@ -82,6 +81,7 @@ python expense_gui.py
 
 Ajay Shivaji Gavali  
 Python Developer (Learning Projects)
+
 
 
 
